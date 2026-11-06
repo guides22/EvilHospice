@@ -125,7 +125,7 @@ Evil Hospice was developed as a university group project by three students at th
 
 - **Guillaume Desaphy** — Primary developer, game design, gameplay implementation, and level design.
 - **Mirko Pepe** — Game design, graphic design, and level design.
-- **Pietro Conca** — Game design and level design.
+- **Pietro Conca (peteknk)** — Game design and level design.
 
 The project involved designing gameplay mechanics, implementing game systems in Unity, creating and adapting pixel-art assets, and building the playable level.
 
